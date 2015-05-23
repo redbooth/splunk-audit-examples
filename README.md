@@ -1,7 +1,7 @@
 # Splunk Audit Examples
 
 This repository contains some example Splunk queries that can be used to
-extrace useful information from the AeroFS Private Cloud audit stream.
+extract useful information from the AeroFS Private Cloud audit stream.
 
 ## Installation
 
